@@ -1,6 +1,8 @@
 <!-- ![MasterHead](http://lovelocaldesign.com/wp-content/uploads/2016/09/process-dev-banner2.gif) -->
 <h1 align="center">Hi 👋, I'm 👩‍💻Haneen Abdulglil</h1>
-<h3 align="center">Step by step to touch the sky ✈ A passionate web developer 🏍 . Interested in learning new skills 🛸.</h3>
+<h3 align="center">Step by step to touch the sky ✈</h3>
+<h3 align="center"> A passionate web developer 🏍 .</h3>
+<h3 align="center"> Interested in learning new skills 🛸.</h3>
 <img align="right" alt= "Coding" width= "400" src= "https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneen-abdulgllil&label=Profile%20views&color=0e75b6&style=flat" alt="haneen-abdulgllil" /> </p>
